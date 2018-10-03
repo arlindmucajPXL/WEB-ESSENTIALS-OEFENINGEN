@@ -1,0 +1,13 @@
+body{
+    background-color:#d9ddd7;
+    font-family: Verdana;
+}
+h1 {
+    color:#04a040;
+}
+p{
+    padding: 20px;
+    border-style: outset;
+    background-color:#6a7689;
+    color: white;
+}

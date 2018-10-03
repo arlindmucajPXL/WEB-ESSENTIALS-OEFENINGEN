@@ -1,0 +1,17 @@
+head{background-color: black}
+thead{
+    background-color: #27426d;
+    color: white;
+    text-align: center;
+}
+tbody{
+    background-color: #4f8cef;
+    color: white;
+    text-align: center;
+}
+tfoot{
+    background-color: #27426d;
+    color: white;
+    text-align: center;
+
+}
